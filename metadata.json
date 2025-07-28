@@ -1,0 +1,5 @@
+
+{
+  "name": "LocalShare - WiFi File Transfer",
+  "description": "A web-based UI for a local file sharing application. This prototype demonstrates the frontend for sharing files with other devices on the same WiFi network without an internet connection."
+}
